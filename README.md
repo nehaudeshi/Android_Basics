@@ -23,3 +23,5 @@ The sequence of the applications is as follows:
 16. Notifications_App
 17. Shared_Preferences_App
 18. BMI_App
+19. StopWatch_App
+20. CoffeeBuzz
